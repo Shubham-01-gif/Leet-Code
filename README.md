@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/Shubham-01-gif/Leet-Code/tree/master/0403-frog-jump) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shubham-01-gif/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shubham-01-gif/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shubham-01-gif/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shubham-01-gif/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/Shubham-01-gif/Leet-Code/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
